@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-11-11T11:03:48.079+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "this flower is taken",
+  "path": "/api/v1/flower"
+}

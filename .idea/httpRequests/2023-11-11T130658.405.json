@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-11-11T11:06:58.571+00:00",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Method 'PUT' is not supported.",
+  "path": "/api/v1/flower/1"
+}

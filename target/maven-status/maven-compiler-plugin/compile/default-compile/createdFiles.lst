@@ -1,6 +1,6 @@
-max/maxondev/flower/newFlower/Flower.class
+max/maxondev/flower/Flower.class
+max/maxondev/flower/FlowerConfig.class
 max/maxondev/flower/FlowerApplication.class
-max/maxondev/flower/newFlower/FlowerController.class
-max/maxondev/flower/newFlower/FlowerRepository.class
-max/maxondev/flower/newFlower/FlowerConfig.class
-max/maxondev/flower/newFlower/FlowerService.class
+max/maxondev/flower/FlowerController.class
+max/maxondev/flower/FlowerRepository.class
+max/maxondev/flower/FlowerService.class

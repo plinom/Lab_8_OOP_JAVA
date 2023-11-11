@@ -1,0 +1,7 @@
+{
+  "timestamp": "2023-11-11T11:14:45.536+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Cannot invoke \"java.lang.Double.doubleValue()\" because \"price\" is null",
+  "path": "/api/v1/flower/3"
+}
