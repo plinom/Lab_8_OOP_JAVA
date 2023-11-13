@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e148ad3-bd23-4405-93f2-67624e608a29" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/popup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-max.maxondev.flower.FlowerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-max.maxondev.flower.FlowerApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/max.maxondev.flower.FlowerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/max.maxondev.flower.FlowerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +128,7 @@
       <workItem from="1699694583261" duration="6984000" />
       <workItem from="1699702024005" duration="28000" />
       <workItem from="1699724427897" duration="1664000" />
-      <workItem from="1699867030933" duration="8146000" />
+      <workItem from="1699867030933" duration="10299000" />
     </task>
     <servers />
   </component>
