@@ -1,4 +1,4 @@
-package max.maxondev.flower;
+package max.maxondev.flower.wrapper;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

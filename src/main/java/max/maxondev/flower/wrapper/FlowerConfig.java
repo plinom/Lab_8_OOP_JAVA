@@ -1,4 +1,4 @@
-package max.maxondev.flower;
+package max.maxondev.flower.wrapper;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;

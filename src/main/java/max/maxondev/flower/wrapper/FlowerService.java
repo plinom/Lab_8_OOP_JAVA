@@ -1,4 +1,4 @@
-package max.maxondev.flower;
+package max.maxondev.flower.wrapper;
 
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package max.maxondev.flower;
+package max.maxondev.flower.wrapper;
 
 import jakarta.persistence.*;
 import lombok.Getter;
