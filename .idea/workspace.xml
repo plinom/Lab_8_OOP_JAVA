@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e148ad3-bd23-4405-93f2-67624e608a29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/FlowerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/FlowerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/FlowerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/FlowerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/FlowerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/FlowerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/FlowerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/FlowerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/FlowerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/max/maxondev/flower/wrapper/FlowerService.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e148ad3-bd23-4405-93f2-67624e608a29" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +130,7 @@
       <workItem from="1699867030933" duration="14011000" />
       <workItem from="1699891844253" duration="1191000" />
       <workItem from="1699893258823" duration="1539000" />
+      <workItem from="1699961265141" duration="599000" />
     </task>
     <servers />
   </component>
