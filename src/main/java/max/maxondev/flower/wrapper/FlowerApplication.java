@@ -1,4 +1,4 @@
-package max.maxondev.flower;
+package max.maxondev.flower.wrapper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
