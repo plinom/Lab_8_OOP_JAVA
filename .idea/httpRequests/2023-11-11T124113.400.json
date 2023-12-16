@@ -1,7 +1,0 @@
-{
-  "timestamp": "2023-11-11T10:41:13.340+00:00",
-  "status": 400,
-  "error": "Bad Request",
-  "message": "Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: \"flower5\"",
-  "path": "/api/v1/flower/flower5"
-}

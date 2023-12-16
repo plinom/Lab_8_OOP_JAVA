@@ -1,7 +1,0 @@
-{
-  "timestamp": "2023-11-11T11:10:43.079+00:00",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "Cannot invoke \"java.lang.Double.doubleValue()\" because \"sepalLength\" is null",
-  "path": "/api/v1/flower/1"
-}
